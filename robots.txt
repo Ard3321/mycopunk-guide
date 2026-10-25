@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ard3321.github.io/mycopunk-guide/sitemap.xml
